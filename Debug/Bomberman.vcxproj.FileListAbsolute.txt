@@ -1,0 +1,8 @@
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.exe
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.Juego.resources
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+e:\Desarrollo\c++\Bomberman\Debug\Bomberman.vcxproj.AssemblyReference.cache
+F:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.Juego.resources
+F:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+F:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.exe
+F:\Documentos\usfx\SIS457\Laboratorio\code\Bomberman\Debug\Bomberman.vcxproj.AssemblyReference.cache
